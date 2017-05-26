@@ -26,6 +26,7 @@
 >>>
 
 ### Preferences > Plugins > Browserepositories > Kotlin
+
 ![Alt Text](./img/plugin.png)
 
 ---
